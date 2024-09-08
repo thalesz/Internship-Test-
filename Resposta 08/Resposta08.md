@@ -74,4 +74,4 @@ According to [Alex Coletta](https://alexcoletta.eng.br/artigos/deadlock-em-siste
 
 
 <!-- Home Button -->
-[🏠 Home](../Enunciado.md)
+ [🏠 Home](../README.md)

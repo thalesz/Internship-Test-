@@ -40,4 +40,4 @@ Android is an open-source software stack based on Linux, designed for a variety 
 [➡️ Next](../Resposta%2006/Resposta06.md)
 
 <!-- Home Button -->
-[🏠 Home](../Enunciado.md)
+ [🏠 Home](../README.md)

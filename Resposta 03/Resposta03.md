@@ -79,4 +79,4 @@ int main() {
 [➡️ Next](../Resposta%2004/Resposta04.md)
 
 <!-- Home Button -->
-[🏠 Home](../Enunciado.md)
+ [🏠 Home](../README.md)
